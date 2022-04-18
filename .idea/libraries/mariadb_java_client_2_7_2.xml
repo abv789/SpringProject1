@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mariadb-java-client-2.7.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Java/mariadb-java-client-2.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Java/c3p0-0.9.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Java/commons-dbutils-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Java/gson-2.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
